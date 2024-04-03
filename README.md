@@ -1,10 +1,10 @@
 # Notepad-app
 This Notepad app is programmed in Python utilizing PyQt6 library.
 
-![Screenshot (1048)](https://github.com/Subhashini098/Notepad-app/assets/109629881/e2327304-4e31-4048-ae3f-a5b404a63c68)
+![Screenshot (1048)](https://github.com/Subhashini098/Notepad-app/assets/109629881/7ce367d7-ffd1-4472-843c-c5898a2a598a)
 
-![Screenshot (1049)](https://github.com/Subhashini098/Notepad-app/assets/109629881/ca2784fd-118e-4a52-9d75-1e35a6d6ccab)
+![Screenshot (1049)](https://github.com/Subhashini098/Notepad-app/assets/109629881/1c23883d-d09f-45be-9295-c5638fe3a750)
 
-![Screenshot (1050)](https://github.com/Subhashini098/Notepad-app/assets/109629881/deb3aba4-14b5-48b8-b728-51d7f612a116)
+![Screenshot (1050)](https://github.com/Subhashini098/Notepad-app/assets/109629881/c855c7a1-002b-4d7b-a951-108786e704b0)
 
-![Screenshot (1051)](https://github.com/Subhashini098/Notepad-app/assets/109629881/a926c882-000b-4127-913f-3d249d5ff447)
+![Screenshot (1051)](https://github.com/Subhashini098/Notepad-app/assets/109629881/9a02607a-df60-4f77-9f8d-0b4399953805)
